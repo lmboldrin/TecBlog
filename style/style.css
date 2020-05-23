@@ -26,6 +26,39 @@ body{
     
 }
 
+
+#area-principal{
+    width:920px;    
+    margin: 0 auto;
+}
+
+#area-postagens, #area-lateral{
+    background: white;
+}
+
+#area-postagens{
+    width:660px;
+    float:left;
+}
+
+.postagem{
+    padding: 20px;
+    margin-bottom: 20px;
+    background: white;
+}
+
+#area-lateral{
+    width:240px;
+    float:right;
+}
+
+#rodape{
+    clear: both;
+    text-align: center;
+    padding: 15px;
+    background: #CCC;
+}
+
 /* Formatação do Menu */
 
 a{
